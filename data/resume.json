@@ -1,0 +1,57 @@
+{
+    "Contact": [
+        {
+            "Name": "Name",
+            "Email": "Email",
+            "Phone": "Phone",
+            "Location": "City, State",
+            "LinkedIn": "URL",
+            "GitHub": "URL"
+        }
+    ],
+    "Summary": "Summary",
+    "Experience": [
+        {
+            "Name": "Experience 1",
+            "Technologies Used": "Technologies List",
+            "Description": "Description of project or experience.",
+            "Skills Demonstrated": "Skills"
+        },
+        {
+            "Name": "Experience 2",
+            "Technologies Used": "Technologies List",
+            "Description": "Description of project or experience.",
+            "Skills Demonstrated": "Skills"
+        },
+        {
+            "Name": "Experience 3",
+            "Technologies Used": "Technologies List",
+            "Description": "Description of project or experience.",
+            "Skills Demonstrated": "Skills"
+        }
+    ],
+    "Education": [
+        {
+            "Degree": "Degree type, Major"
+        }
+    ],
+    "Skills": [
+        {
+            "Technical": [
+                "Technical Skill 1",
+                "Technical Skill 2",
+                "Technical Skill 3"
+            ],
+            "Programming Languages": [
+                "Language 1",
+                "Language 2",
+                "Language 3"
+            ],
+            "Soft Skills": [
+                "Soft Skill 1",
+                "Soft Skill 2",
+                "Soft Skill 3"
+            ]
+        } 
+    ] 
+}

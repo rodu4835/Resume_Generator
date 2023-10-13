@@ -1,0 +1,4 @@
+python-docx
+openai
+python3-regex
+python-tk
